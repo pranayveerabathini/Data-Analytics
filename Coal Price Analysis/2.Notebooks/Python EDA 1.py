@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 27 20:28:18 2024
 
-@author: Test
-"""
 
 'Python EDA (bef pre-pr)'
 
